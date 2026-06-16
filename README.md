@@ -1,7 +1,7 @@
 # Customer Churn Analysis and Prediction Using Power BI
 
 ## Overview
-This project analyzes customer churn data using Microsoft Power BI to identify customer retention patterns and key factors influencing customer attrition. An interactive dashboard was developed to transform raw customer data into actionable business insights and support data-driven decision-making.
+This project analyzes customer churn data using Microsoft Power BI to identify churn patterns and key factors influencing customer attrition. An interactive dashboard was developed to transform raw customer data into actionable business insights and support data-driven decision-making.
 
 ## Objectives
 - Analyze customer churn behavior and retention trends.
